@@ -1140,7 +1140,7 @@ a.btn {
 }
 
 /* Page select */
-.select-goto option, #contrastSelect,#current,#total, #tocP.select-goto {
+.select-goto option, #contrastSelect,#current,#total, #tocp.select-goto, select#tocP.select-goto {
 	color: black;
 	background-color: #fff;
 }
