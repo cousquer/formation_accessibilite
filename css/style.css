@@ -1140,6 +1140,11 @@ a.btn {
 }
 
 /* Page select */
+.select-goto option, #contrastSelect,#current,#total {
+	color: black;
+	background-color: #fff;
+}
+
 
 .select-goto {
 	font-size: 85%;
@@ -1148,12 +1153,15 @@ a.btn {
 	position: relative;
 	margin-left: 15px;
 	top: 0;
+	background-color: #fff;
+	color:black;
 }
 
 #tocp {
 	position: relative;
 	z-index: 810;
 }
+
 
 .fontawesome .icon-goto:before {
 	content: "\f064";

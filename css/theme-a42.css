@@ -2518,7 +2518,7 @@ blockquote cite {
 }
 
 .btn {
-	color: transparent;
+	color: #000;
 }
 
 [class*="btn"] .icon {
